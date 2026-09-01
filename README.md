@@ -154,9 +154,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
-
-<div align="center">
-
-만든 것과 만들면서 겪은 문제를 저장소에 기록하고 있습니다.
-
-</div>
