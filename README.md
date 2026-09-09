@@ -28,6 +28,8 @@
 
 ### 🌊 Escape the Cave
 
+<img src="assets/escape-the-cave.png" alt="Escape the Cave 스크린샷" width="100%">
+
 한 대의 잠수함을 함께 운용해 심해 동굴을 탈출하는 1~4인 협동 생존 게임입니다.
 
 `Unity 6` `C#` `Photon Fusion 2`
@@ -44,6 +46,8 @@
 <td width="50%" valign="top">
 
 ### 🏮 천도컴퍼니
+
+<img src="assets/1000-company.png" alt="천도컴퍼니 스크린샷" width="100%">
 
 의뢰를 받아 심령 현상을 조사하고 귀신을 천도하는 협동 공포 게임입니다.
 
@@ -64,6 +68,8 @@
 
 ### 🕳️ 두더지 연결하기
 
+<img src="assets/mole-connect.png" alt="두더지 연결하기 스크린샷" width="100%">
+
 타일을 이동·회전시켜 두더지가 목적지까지 갈 길을 완성하는 모바일 캐주얼 퍼즐 게임입니다. 앱인토스 출시.
 
 `Unity` `C#` `JSON`
@@ -80,6 +86,8 @@
 <td width="50%" valign="top">
 
 ### 🥊 오목 복싱
+
+<img src="assets/omok-boxing.png" alt="오목 복싱 스크린샷" width="100%">
 
 지는 순간 판을 엎고 주먹으로 승부를 보는 오목 게임입니다.
 
