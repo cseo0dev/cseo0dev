@@ -153,4 +153,24 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
+## Certifications
+
+**IT · Infra**
+
+![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-1e3a8a?style=flat-square)
+![네트워크관리사 2급](https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC_2%EA%B8%89-1e40af?style=flat-square)
+![리눅스마스터 2급](https://img.shields.io/badge/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0_2%EA%B8%89-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Data**
+
+![ADsP](https://img.shields.io/badge/ADsP-166534?style=flat-square)
+![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Office · Design**
+
+![컴퓨터활용능력 2급](https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5_2%EA%B8%89-334155?style=flat-square)
+![MOS Word](https://img.shields.io/badge/MOS_Word-2B579A?style=flat-square)
+![MOS Excel](https://img.shields.io/badge/MOS_Excel-217346?style=flat-square)
+![GTQ 1급](https://img.shields.io/badge/GTQ_1%EA%B8%89-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
 ---
